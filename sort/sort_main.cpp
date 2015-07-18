@@ -1,21 +1,21 @@
 /***************************************************************/
 /*Copyright (C) SSE-USTC,2015-2016  	                       */
-/*															   */
-/*	FILE NAME          		:	sort_main.cpp				   */
-/*	PRINCIPAL AUTHOR    	:   Zeng Yonggang				   */
-/*	SUBSYSTEM NAME			:   sort.h  					   */
-/*	MODULE NAME				:								   */
-/*	LANGUAGE				:	C++							   */
-/*	TARGET ENVIRONMENT  	:	Linux						   */
-/*	DATE OF FIRST RELEASE   :	2015/07/16				       */
-/*	DESCRIPTION				:	sort algorithm				   */
+/*							       */
+/*	FILE NAME          	:	sort_main.cpp	       */
+/*	PRINCIPAL AUTHOR    	:   	Zeng Yonggang	       */
+/*	SUBSYSTEM NAME		:	sort.h  	       */
+/*	MODULE NAME		:			       */
+/*	LANGUAGE		:	C++		       */
+/*	TARGET ENVIRONMENT  	:	Linux		       */
+/*	DATE OF FIRST RELEASE   :	2015/07/16	       */
+/*	DESCRIPTION		:	sort algorithm	       */
 /***************************************************************/
 
 /*
  * Revision log:
  *
- * Created by Zeng Yonggang,2015/07/16
- * Debug and Test by Zeng Yonggang,2015/07/16
+ * Revisied by Zeng Yonggang,2015/07/18
+ * Debug and Test by Zeng Yonggang,2015/07/18
  *
  */
 
